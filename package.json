@@ -1,0 +1,23 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdImran001/pdf-generator.git"
+  },
+  "author": "Mohd Imran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdImran001/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/MohdImran001/pdf-generator#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "puppeteer": "^3.1.0"
+  }
+}
